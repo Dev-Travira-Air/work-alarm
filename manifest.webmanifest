@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Jeda — Pengingat Istirahat",
+  "short_name": "Jeda",
+  "description": "Pengingat istirahat singkat saat bekerja di depan layar.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#f5f8fc",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
